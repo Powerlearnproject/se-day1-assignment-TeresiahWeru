@@ -90,6 +90,7 @@ Project Manager
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
+
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
 An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
@@ -100,6 +101,7 @@ The IDE allows developers to automate unit tests locally before the software is 
 Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
+
 importance:
 Collaboration: Enables multiple developers to work on the same codebase without conflicts.
 Change Tracking: Records detailed history of changes, allowing easy analysis of each modification. 
